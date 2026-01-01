@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋🏻, I'm Suryaveer!</h1>
 <h3 align="center">Skill-hungry dev🕷️</h3>
-🪶I’m currently learning frontend development and python.<br>🗃️I have worked as virtual <h1cybersecurity Intern @CDAC Noida<br>📫How to reach me : suryaveer.chauhan05@gmail.com<br>🦠Fun fact : “It worked yesterday” is my villain origin story !
+
+🪶I’m currently learning frontend development and python.<br>🗃️I have worked as virtual cybersecurity Intern @CDAC Noida<br>📫How to reach me : suryaveer.chauhan05@gmail.com<br>🦠Fun fact : “It worked yesterday” is my villain origin story !
 
 
 ## 🌐 Socials:
