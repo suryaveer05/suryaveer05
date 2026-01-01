@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ![header](https://capsule-render.vercel.app/api?text=Hii%20Suryaveer%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
 <h3 align="center">Skill-hungry dev🕷️</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
