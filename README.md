@@ -1,4 +1,3 @@
-(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=5&background=E592FF00&width=435&lines=Hii+Suryaveer+here!%F0%9F%92%BB)](https://git.io/typing-svg)
 # 💫 About Me:
 🪶I’m currently learning frontend development and python.<br>🗃️I have worked as virtual cybersecurity Intern @CDAC Noida<br>📫How to reach me : suryaveer.chauhan05@gmail.com<br>🦠Fun fact : “It worked yesterday” is my villain origin story !
 
