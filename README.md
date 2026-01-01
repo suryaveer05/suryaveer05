@@ -1,4 +1,7 @@
-<h1 align="center">Hi👋🏻, I'm Suryaveer!</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![header](https://capsule-render.vercel.app/api?text=Hii%20Suryaveer%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
+
+
 <h3 align="center">Skill-hungry dev🕷️</h3>
 
 🪶I’m currently learning frontend development and python.<br>🗃️I have worked as virtual cybersecurity Intern @CDAC Noida<br>📫How to reach me : suryaveer.chauhan05@gmail.com<br>🦠Fun fact : “It worked yesterday” is my villain origin story !
