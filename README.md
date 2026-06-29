@@ -6,8 +6,12 @@
 🪶I’m currently learning frontend development and python.<br>🗃️I have worked as virtual cybersecurity Intern @CDAC Noida<br>📫How to reach me : suryaveer.chauhan05@gmail.com<br>🦠Fun fact : “It worked yesterday” is my villain origin story !
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PGQ2ENM2X) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suryaveer_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryaveer-singh-chauhan-b7b2122a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaveer.chauhan05@gmail.com)
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/PGQ2ENM2X)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/suryaveer_05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryaveer-singh-chauhan-b7b2122a1/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaveer.chauhan05@gmail.com)
 
 ![cat goif 1](https://github.com/user-attachments/assets/da685341-356d-42c1-aed4-17fa43d3d90d)
 
